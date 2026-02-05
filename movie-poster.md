@@ -68,18 +68,18 @@ What do you definitely NOT want? (This helps you evaluate AI outputs critically.
 Open Adobe Firefly. Generate images based on your creative brief, but remember: you're exploring possibilities, not looking for a final answer.
 
 **Attempt 1:**  
-- **My prompt:**  
+- **My prompt: Make me a hunger Games movie poster (image). I want a close up 3/4 shot of Katniss in her black fire outfit from her chest and up. Behind her (a little faded and less noticeable) Peta is facing the other way and is also portrayed as a 3/4 shot. Main colors should be gold and black, accent colors should be darker shades of colors. I want the main mood to be intense and revolutionary.**  
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked: The mood fits and the background resembles the movie**  
+- **What didn't work:The characters were positioned strangely and they didn't really look like themselves.**  
+- **What I'll change for next attempt: Ask the AI to reposition the characters. **  
 
-**Attempt 2:**  
-- **My prompt:**  
+**Attempt 2**  
+- **My prompt: Make me a hunger Games movie poster (image). I want a close up 3/4 shot of Katniss in her black fire outfit from her chest and up facing to the left. Behind her (a little faded and less noticeable) Peta is facing to the right and is also portrayed as a 3/4 shot. Main colors should be gold and black, accent colors should be darker shades of colors. I want the main mood to be intense.**  
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked: The characters are in the correct position**  
+- **What didn't work: The characters are in strange stance/ **  
+- **What I'll change for next attempt: make them standing straight**  
 
 ---
 
@@ -88,20 +88,21 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 
 Keep refining. Try at least two more meaningfully different directions.
 
-**Attempt 3:**  
+**Attempt 3:Make me a hunger Games movie poster (image). I want a close up 3/4 shot of Katniss in her black fire outfit from her upper chest and up, facing to the left. Behind her (a little faded and less noticeable) Peta is facing to the right and is also portrayed as a 3/4 shot. both characters should be standing still with their arms alongside their body. Main colors should be gold and black, accent colors should be darker shades of colors. I want the main mood to be intense. the background is a destroyed city in warm brown shades. Add a mocking jay pin on katniss's chest and make the fire on her costume visible.  **  
 - **My prompt:**  
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:characters are positioned well**  
+- **What didn't work: the background no longer resembles the moivie**  
+- **What I'll change for next attempt: change the background**  
 
-**Attempt 4:**  
+**Attempt 4:Make me a hunger Games movie poster (image). I want a close up 3/4 shot of Katniss in her black fire outfit from her upper chest and up, facing to the left. Behind her (a little faded and less noticeable) Peta is facing to the right and is also portrayed as a 3/4 shot. both characters should be standing still with their arms alongside their body. Main colors should be gold and black, accent colors should be darker shades of colors. I want the main mood to be intense. the background is a destroyed city in warm brown shades. Add a mocking jay pin on katniss's chest and make the fire on her costume visible.  make a dark vignette around the background to make the characters pop. The title "The Hunger Games" should be on the bottom of the poster in gold**  
 - **My prompt:**  
 
-- **What worked:**  
-- **What didn't work:**  
+- **What worked: Katniss's uniform is perfect**  
+- **What didn't work: the background is too light **  
 
-**Final AI Image Selected:** (Which attempt? Why?)  
+**Final AI Image Selected:** (Which attempt? Why?: The third attempt: the characters are in the correct position and the rest of the details resemble the movie the most compared to the other ones.)  
+
 
 ---
 
