@@ -30,35 +30,35 @@ At each step, save and commit your work in GitHub Desktop.
 Before you open any AI tools, plan your vision. This is your anchor—return to it after every AI generation.
 
 **Your Movie Choice:**  
-- **Movie Title:**  
-- **Why I chose this movie:**  
+- **Movie Title: Hunger Games**  
+- **Why I chose this movie: It is my favorite movie. **  
 
 **Core Emotion:**  
 What ONE feeling should a viewer get from your poster? (Examples: wonder, fear, joy, excitement, mystery, tension, nostalgia)  
-- **Core emotion:**  
+- **Core emotion:Intensity**  
 
 **Essential Visual Element:**  
 What ONE image, object, or visual MUST appear on your poster?  
-- **Essential element:**  
-- **Why this element:**  
+- **Essential element: Katniss **  
+- **Why this element: Because she is the protagonist.**  
 
 **What NOT to Include:**  
 What do you definitely NOT want? (This helps you evaluate AI outputs critically.)  
-- **Avoid:**  
+- **Avoid: Making the poster colorful and vibrant**  
 
 **Color Palette:**  
-- **Dominant color(s):**  
-- **Accent color(s):**  
-- **Overall mood:** (warm/cool/muted/vibrant/dark/bright)  
+- **Dominant color(s): gold and black**  
+- **Accent color(s): darker shades of colors **  
+- **Overall mood: dark** (warm/cool/muted/vibrant/dark/bright)  
 
 **Composition:**  
-- [ ] Close-up (face/detail)  
+- [X] Close-up (face/detail)  
 - [ ] Wide shot (landscape/setting)  
 - [ ] Medium shot (full figure)  
 - [ ] Object/symbol centered  
 - [ ] Character collage  
 
-- **Focal point description:**  
+- **Focal point description: a 3/4 shot of Katniss (from her chest and up) with Peta in the back facing the opposite direction also 3/4 (a little faded and less noticeable)**  
 
 ---
 
